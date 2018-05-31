@@ -2,7 +2,6 @@
  
  
  Online playable version:
- 
  https://ninnyu.itch.io/dexter
  
  
