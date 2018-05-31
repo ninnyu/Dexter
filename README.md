@@ -1,6 +1,9 @@
 ﻿README
  
- To run this code:
+ Online playable version:
+ https://ninnyu.itch.io/dexter
+ 
+ To run this code locally on your system:
  1. Download as a .zip file or clone the repository.
  2. Run a local web server. Any local web server system will do, I think. I used http-server for node.js https://www.npmjs.com/package/http-server . You need node.js installed to use it. https://nodejs.org/en/ .
     After installing node.js, open the command prompt. To install http-server, type: 
